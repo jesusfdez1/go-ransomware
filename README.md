@@ -2,6 +2,9 @@
 > [!CAUTION]
 > For security reasons, some parts of the original code have been replaced with placeholders.
 
+> [!NOTE]
+> Para leer este documento en español, visita este [archivo](readme_es.md)
+
 A comprehensive, two-part project developed in Go to study modern encryption techniques, defense evasion, Command and Control (C2) communication, and recovery mechanisms.
 
 ## Project Architecture
@@ -39,10 +42,8 @@ go-ransomware/
 
 The payloads were successfully tested against leading AV solutions (before being redacted for this public release).
 
-### Bitdefender Evasion
 ![Bitdefender Bypass](vid/bitdefender.gif)
 
-### ESET Evasion
 ![ESET Bypass](vid/eset.gif)
 
 ## Compilation and Usage
@@ -82,6 +83,3 @@ winget install upx.upx
 For specific information regarding each module:
 - **Ransomware**: Consult `ransomware/README.md` for technical details on the encryption engine, persistence, and C2 communication.
 - **Vaccine**: Consult `vaccine/README.md` for specifications regarding the recovery process.
-
-## Language Options
-- [Versión en español](README_es.md)

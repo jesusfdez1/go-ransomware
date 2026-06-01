@@ -3,6 +3,9 @@
 > **Aviso de seguridad**
 > Por motivos de seguridad, algunas partes del código original han sido sustituidas por placeholders.
 
+> [!NOTE]
+> To read this document in English, visit this [file](readme.md)
+
 Un proyecto completo en dos partes desarrollado en Go para el estudio de técnicas modernas de cifrado, evasión de defensas, comunicación de Comando y Control (C2) y mecanismos de recuperación.
 
 ## Arquitectura del proyecto
@@ -81,6 +84,3 @@ winget install upx.upx
 Para información específica sobre cada módulo:
 - **Ransomware**: Consulta `ransomware/README.md` para detalles técnicos sobre el motor de cifrado, la persistencia y la comunicación C2.
 - **Vacuna**: Consulta `vaccine/README.md` para especificaciones sobre el proceso de recuperación.
-
-## Opciones de idioma
-- [English version](README.md)
