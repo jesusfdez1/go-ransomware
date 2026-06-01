@@ -1,5 +1,4 @@
-# Go-Ransomware y vacuna (PoC educativa)
-
+# Go-Ransomware y vacuna
 > [!CAUTION]
 > **Aviso de seguridad**
 > Por motivos de seguridad, algunas partes del código original han sido sustituidas por placeholders.
