@@ -3,7 +3,6 @@
 Encryption engine implementing modern ransomware capabilities: AES-GCM encryption, persistence mechanisms, and Command and Control (C2) communication.
 
 > [!CAUTION]
-> **Security Notice**
 > For security reasons, some parts of the original code have been replaced with placeholders. 
 
 ## Module Architecture
