@@ -3,7 +3,7 @@
 > For security reasons, some parts of the original code have been replaced with placeholders.
 
 > [!NOTE]
-> Para leer este documento en español, visita este [archivo](readme_es.md)
+> Para leer este documento en español, visita este [archivo](README_es.md)
 
 A comprehensive, two-part project developed in Go to study modern encryption techniques, defense evasion, Command and Control (C2) communication, and recovery mechanisms.
 
