@@ -4,7 +4,7 @@
 > Por motivos de seguridad, algunas partes del código original han sido sustituidas por placeholders.
 
 > [!NOTE]
-> To read this document in English, visit this [file](readme.md)
+> To read this document in English, visit this [file](README.md)
 
 Un proyecto completo en dos partes desarrollado en Go para el estudio de técnicas modernas de cifrado, evasión de defensas, comunicación de Comando y Control (C2) y mecanismos de recuperación.
 
